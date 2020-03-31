@@ -54,10 +54,22 @@ Optionally, you could add a keyboard shortcut to your DE to call the script.
 
 - - -
 
-### Screenshots
+# Screenshots
+
+## Getting Credentials
 
 ![](.images/search_prompt.png)
 
 ![](.images/select_account.png)
 
 ![](.images/user_pass.png)
+
+## Adding Credentials
+
+![](.images/create_password_prompt.png)
+
+![](.images/password_lenght.png)
+
+![](.images/generated_password.png)
+
+![](.images/add_password_prompt.png)
