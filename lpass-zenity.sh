@@ -15,6 +15,7 @@
 # Sets variables
 #-------------------------------------------------------------------------------
 lpass_user=""
+export LPASS_HOME="${HOME}/.lpass"
 
 if ! command -v lpass > /dev/null ; then
   echo "You need the \"lastpass-cli\" package installed"
